@@ -1,0 +1,34 @@
+{
+  "name": "react-svg-graph",
+  "version": "0.0.1",
+  "description": "Take JSON type of data and display a graph using SVG",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asknudo/react-svg-graph.git"
+  },
+  "keywords": [
+    "svg",
+    "react",
+    "graph",
+    "diagram"
+  ],
+  "author": "Amando Nudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asknudo/react-svg-graph/issues"
+  },
+  "homepage": "https://github.com/asknudo/react-svg-graph#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jquery": "^2.2.3",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "underscore": "^1.8.3",
+    "webpack": "^1.13.0"
+  }
+}
